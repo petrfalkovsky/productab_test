@@ -1,6 +1,6 @@
 //
-//  Productab_testApp.swift
-//  Productab_test
+//  test_reelApp.swift
+//  test_reel
 //
 //  Created by poteryal_trusy on 29.10.2025.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Productab_testApp: App {
+struct test_reelApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
